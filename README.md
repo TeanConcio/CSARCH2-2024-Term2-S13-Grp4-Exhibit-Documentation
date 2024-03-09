@@ -8,6 +8,7 @@ Computer components exhibit documentation of S13 Group 4. This repository was ma
 - Sia, Dominic
 
 # Contents of this Repository
+- Exhibit Proposal
 - Exhibit Video
 - Collage of Pictures from the Exhibit
 
